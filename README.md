@@ -4,7 +4,7 @@ A simple Flutter authentication app using clean architecture, BLoC, and mock API
 It features login, logout, token persistence, and state-based routing with GoRouter.
 
 ## Demonstration of work
-
+https://github.com/user-attachments/assets/bdf6088a-1c68-421a-be0c-8c1db6d8859c
 
 ## Features
 
@@ -83,11 +83,11 @@ Password: 123456
 
 ```
 lib/
-├── core/          # utilities, constants, routing
+├── core/          # utilities, constants
 ├── data/          # API, models, data sources, repositories
 ├── domain/        # entities, use cases, repositories interfaces
 ├── di/            # dependency injection setup
-└── presentation/  # UI screens, widgets, bloc
+└── presentation/  # UI screens, widgets, bloc, routing
 ```
 
 ## Notes
